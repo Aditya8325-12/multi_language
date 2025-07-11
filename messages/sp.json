@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "title": "¡Hola mundo!",
+    "about": "Ir a la página acerca de"
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "products": "Productos",
+    "services": "Servicios",
+    "contact": "Contáctanos"
+  }
+}
